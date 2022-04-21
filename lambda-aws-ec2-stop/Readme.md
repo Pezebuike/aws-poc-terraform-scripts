@@ -23,7 +23,7 @@ variables:
     region              ="eu-west-1"
     lambdaname          ="lambda-aws-ec2-stop"
     tagName             ="office-hours"
-    tagValue            ="start"
+    tagValue            ="ec-data-platform"
 
 commands
 

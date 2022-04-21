@@ -1,6 +1,6 @@
 Requirements
 
-    To start ec2 instance use lambda function
+    To stop ec2 instance use lambda function
 
 Instance tagname
 
@@ -23,7 +23,7 @@ variables:
     region              ="eu-west-1"
     lambdaname          ="lambda-aws-ec2-start"
     tagName             ="office-hours"
-    tagValue            ="start"
+    tagValue            ="ec-data-platform"
 
 commands
 
